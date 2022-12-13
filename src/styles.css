@@ -1,0 +1,45 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: #0f0e17;
+}
+
+button {
+  padding: 0.5rem;
+  width: 20rem;
+  cursor: pointer;
+  background-color: #ff8906;
+  margin: 0.25rem;
+  border-radius: 0.4rem;
+  color: #fffffe;
+  font-size: 1rem;
+  text-size-adjust: larger;
+}
+
+.movie-name {
+  font-size: 2rem;
+  padding: 0.5rem;
+  padding-top: 1.5rem;
+  color: whitesmoke;
+}
+
+.movie-rating {
+  margin-top: 1rem;
+  border-radius: 0.5rem;
+  border-color: brown;
+  color: #a7a9be;
+  padding-bottom: 0.75rem;
+}
+
+.Title {
+  color: #fffffe;
+  margin-top: 0rem;
+  margin-right: 1.5rem;
+  margin-left: 4.5rem;
+  padding: 0.25rem;
+  width: 30rem;
+  background-color: #ff8906;
+  border-radius: 0.2rem;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
